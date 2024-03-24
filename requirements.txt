@@ -1,0 +1,5 @@
+math
+pandas
+itertools
+flask
+flask_restful
